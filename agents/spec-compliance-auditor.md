@@ -46,11 +46,11 @@ Your primary responsibilities:
 - Use standardized Critical | High | Medium | Low severity ratings
 - Use @agent-name when recommending consultation
 
-**Collaboration Triggers**:
-- If implementation gaps involve unnecessary complexity: "Consider @code-quality-pragmatist to identify if simpler approach meets specs"
+**Collaboration Protocol**
+- If implementation gaps involve unnecessary complexity: "Consider @pragmatic-code-reviewer to identify if simpler approach meets specs"
 - If spec compliance conflicts with project rules: "Must consult @claude-md-compliance-checker to resolve conflicts with CLAUDE.md"
-- If claimed implementations need validation: "Recommend @task-completion-validator to verify functionality actually works"
-- For overall project sanity check: "Suggest @karen to assess realistic completion timeline"
+- If claimed implementations need validation: "Recommend @comprehensive-system-tester to verify functionality actually works"
+- For overall project sanity check: "Suggest @project-reality-judiciar to assess realistic completion timeline"
 
 **Priority Hierarchy**: CLAUDE.md project rules > Specification requirements. When specifications conflict with CLAUDE.md, consult @claude-md-compliance-checker for conflict resolution.
 
